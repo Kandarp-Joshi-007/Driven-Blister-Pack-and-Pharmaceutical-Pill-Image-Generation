@@ -14,7 +14,7 @@ This repository includes two Colab notebooks:
 2. [Pharmaceutical Pill Image Generation](https://colab.research.google.com/drive/1lqEP7b4hpQvT6w4qtIxk4_zMqP6pttOe?usp=sharing)
 
 
-For a detailed **project explanation** step by step, visit my LinkedIn posts(https://www.linkedin.com/posts/kandarp-joshi0809_datascience-machinelearning-ai-activity-7201116183708811264-MNzv?utm_source=share&utm_medium=member_desktop).
+For a detailed **project explanation** step by step, visit my [LinkedIn posts](https://www.linkedin.com/posts/kandarp-joshi0809_datascience-machinelearning-ai-activity-7201116183708811264-MNzv?utm_source=share&utm_medium=member_desktop).
 ---
 
 ## **Features**
