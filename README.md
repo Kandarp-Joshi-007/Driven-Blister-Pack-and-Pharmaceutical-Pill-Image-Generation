@@ -68,7 +68,7 @@ This repository includes two Colab notebooks:
 ---
 
 ## **Contributors**
-- **Your Name** ([GitHub](https://github.com/Kandarp-Joshi-007))
+- ([GitHub](https://github.com/Kandarp-Joshi-007))
 - Additional contributors - Mihir Kothari, Juhi Gajjar, riddhi Parmar
 
 ---
