@@ -34,7 +34,7 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/Driven-Blister-Pack-Generation.git
+git clone https://github.com/Kandarp-Joshi-007/Driven-Blister-Pack-Generation.git
 cd Driven-Blister-Pack-Generation
 Open and run the Colab notebooks:
 
